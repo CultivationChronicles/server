@@ -1,0 +1,26 @@
+{
+  "events": [
+    {
+      "id": "double_qi_june_2026",
+      "active": false,
+      "title": "Heavenly Confluence",
+      "flavor": "The spiritual veins pulse with unusual vitality.",
+      "description": "All cultivators receive double Qi generation during this event.",
+      "endsAt": "2026-06-30T23:59:59.000Z",
+      "effects": {
+        "qiMult": 2
+      }
+    },
+    {
+      "id": "free_bt_july_2026",
+      "active": false,
+      "title": "Founder's Blessing",
+      "flavor": "The sect ancestors smile upon worthy disciples.",
+      "description": "Each cultivator receives 3 free realm breakthroughs.",
+      "endsAt": "2026-07-15T23:59:59.000Z",
+      "effects": {
+        "freeBreakthroughs": 3
+      }
+    }
+  ]
+}
