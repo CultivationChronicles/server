@@ -2,7 +2,7 @@
   "events": [
     {
       "id": "Game1",
-      "active": false,
+      "active": true,
       "title": "Major Changes",
       "flavor": "The recent changes reset users data...",
       "description": "All cultivators receive double Qi generation during this event.",
